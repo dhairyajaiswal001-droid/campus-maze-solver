@@ -26,11 +26,7 @@ When I ran the code on my campus map, here is how the agent performed:
 ###  Project Structure
 
   * `src/solver.py`: The core logic for the BFS and A\* algorithms.
-  * `requirements.txt`: Standard Python environment setup (no external libraries required).
   * `.gitignore`: Keeps the repository clean by hiding temporary `__pycache__` files.
-  * `LICENSE`: MIT License (open for others to learn from\!).
-
------
 
 ###  How to Run the Solver
 
