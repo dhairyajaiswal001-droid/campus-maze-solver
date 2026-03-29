@@ -1,7 +1,5 @@
 #  Campus Navigation: The "Maze Solver" Agent
 
-**A 1st-Year AI & ML Student Project | Module 2: Search Strategies**
-
 ###  The Problem
 
 Imagine you are at the **Hostel (S)** and need to get to the **AI Lab (G)** for a morning class. The campus isn't just an empty field—there are buildings, walls, and restricted zones (**\#**) in your path.
@@ -34,7 +32,7 @@ When I ran the code on my campus map, here is how the agent performed:
 
 -----
 
-### 🏃‍♂️ How to Run the Solver
+###  How to Run the Solver
 
 To test the agent on your own machine, follow these steps:
 
