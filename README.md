@@ -46,3 +46,8 @@ To test the agent on your own machine, follow these steps:
 
 **Created by:** Dhairya Jaiswal (25BAI10441)  
 **Course:** B.Tech in Artificial Intelligence & Machine Learning  
+<img width="870" height="732" alt="image" src="https://github.com/user-attachments/assets/d57e8b83-ef93-4600-a38d-420664ba94f7" />
+
+<img width="870" height="687" alt="image" src="https://github.com/user-attachments/assets/aa31d624-d996-4e1f-a30d-565d29838bdb" />
+
+<img width="869" height="494" alt="image" src="https://github.com/user-attachments/assets/9232e3f5-5082-4643-aa85-fad7ba37f8a1" />
